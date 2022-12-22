@@ -8,6 +8,7 @@ A ideia deste projeto é utilizar varios recursos do flutter e desenvolver as mi
 - MobX
 - Modular
 - MongoDB
+- Clean Archtecture
 
 --------------------------------------------------------------
 
